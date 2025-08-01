@@ -19,5 +19,4 @@ You have been tasked with answering three key questions about New York City (NYC
 3. We create a new Data Frame 'best_math_schools' which holds the school_name and average_math score columns with average math score >=640 (80% of 800) and sort the values in descending order of average_math column. (Answer #1)
 4. We create a new columns in 'total_SAT' in Data Frame 'schools' which is a sum of average_math, average_reading and average_writing columns for each row.
 5. We create a new Data Frame 'top_10_schools' by selecting the top 10 rows based on 'total_SAT' column from data frame 'schools'. (Answer #2)
-6. We calculate the Average, Median and Standard Deviation of 'total_SAT' column for schools by 'borough' column and store in Data Frame 'schools_std_dev'.
 7. We pick the school with largest standard deviation from the data frame 'schools_std_dev' (Answers #3)
